@@ -6,3 +6,5 @@ Includes:
 - Snake
 - Ping pong
 - A modified version of Poker
+
+They can be played at https://isauve.github.io/other_pages/games.html
